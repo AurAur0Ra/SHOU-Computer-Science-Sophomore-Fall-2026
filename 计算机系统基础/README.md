@@ -10,7 +10,7 @@ SHOU · 2026—2027 学年第一学期
 
 | 课次 | 课堂笔记 |
 |---|---|
-| Lecture-01 | [📄 查看笔记](<./数电 Lecture-01.pdf>) |
+| Lecture-01 | [📄 查看笔记](<./数电Lecture01.pdf>) |
 
 ## 📝 课程作业 | Assignments
 
